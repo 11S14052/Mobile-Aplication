@@ -1,0 +1,29 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.wahyunainggolan.bola.fragment.Live">
+
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Susunan Pemain Negara"
+        android:textSize="20sp" />
+
+    <include
+        layout="@layout/listview_lineup"
+        android:layout_width="wrap_content"
+        android:layout_height="470dp"
+        android:layout_marginTop="37dp" />
+
+    <TextView
+        android:id="@+id/team_a"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="230dp"
+        android:text="Inggris"
+        android:textSize="20sp" />
+
+</FrameLayout>
