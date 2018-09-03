@@ -1,0 +1,3 @@
+Applikasi ini dibuat dengan menggunakan teknik scraping terhadap website dan blog yang telah dibuat sebelumnya.
+Dimana blog berisikan prediksi saya terhadap piala dunia 2018 menggunakan machine learning. 
+Tampilan blog pada screenshoot terdapat pada "Tampilan Detail Prediksi"
